@@ -97,13 +97,20 @@ Watch the demo:
 ![demo](./assets/demo.gif)
 
 ## 📊 Visualizations
-🔸 Training & Validation Plots
+### 🔸 Training & Validation Plots
 
 
 Training vs. Validation Accuracy
 
+![Training and validation accuracy](./assets/Training_and_validation_accuracy.png)
 
 Training vs. Validation Loss
+
+![Training and validation loss](./assets/Training_and_validation_loss.png)
+
+### 🔸 Confusion Matrix
+
+![Confusion Matrix](./assets/Confusion_Matrix.png)
 
 ## 🚀 Model Architecture
 
