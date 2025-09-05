@@ -93,14 +93,17 @@ You can also deploy this app using Streamlit Cloud or Hugging Face Spaces.
 ## 🎥 Demo Video
 
 Watch the demo:
+
 ![demo](./assets/demo.gif)
 
-## 📊 Example Visualizations
-- Class distribution bar chart
+## 📊 Visualizations
+🔸 Training & Validation Plots
 
-- Augmented training image samples
 
-- Accuracy and loss curves
+Training vs. Validation Accuracy
+
+
+Training vs. Validation Loss
 
 ## 🚀 Model Architecture
 
