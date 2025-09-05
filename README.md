@@ -1,5 +1,7 @@
 # 🦷 Teeth Classification using Deep Learning
 
+> AI-powered dental image classification with TensorFlow & Streamlit
+
 This project implements a deep learning pipeline to classify dental images into **7 categories** using a Convolutional Neural Network (CNN). It includes all the essential steps from dataset preparation and augmentation to training, evaluation, and a web demo using Streamlit.
 
 ---
@@ -106,7 +108,7 @@ Training vs. Validation Accuracy
 
 Training vs. Validation Loss
 
-![Training and validation loss](./assets/Training_and_validation_loss.png)
+![Training and validation loss](./assets/Training_and_Validation_Loss.png)
 
 ### 🔸 Confusion Matrix
 
